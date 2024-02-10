@@ -13,7 +13,9 @@ program.open_web()
 i = 1
 while i == 1:
     program.wait_for_all_element_on_website()
-    visible_element = program.sprawdz_element('//*[@id="load-more"]/div/button')
+    visible_element = program.check_if_the_element_exists(
+        '//*[@id="load-more"]/div/button'
+    )
     if visible_element is True:
         program.scroll_to_down_page()
         sleep(1)
