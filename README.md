@@ -3,6 +3,7 @@
 ## Description
 
 Dubai Brokers Scraper is an advanced data extraction tool that automatically retrieves and processes information about licensed real estate brokers from the official Dubai Land Department website.
+https://dubailand.gov.ae/en/eservices/licensed-real-estate-brokers/licensed-real-estate-brokers-list#/
 
 ## Features
 
