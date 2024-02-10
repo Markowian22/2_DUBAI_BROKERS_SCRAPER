@@ -5,7 +5,7 @@ BROKERS_SELENIUM.ipynb
 __pycache__/
 *.py[cod]
 *$py.class
-.venv
+
 # C extensions
 *.so
 
